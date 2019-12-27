@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
+url: /talks/
 
 # View.
 #   1 = List

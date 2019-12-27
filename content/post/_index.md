@@ -1,5 +1,6 @@
 ---
 title: Posts
+url: /posts/
 
 # View.
 #   1 = List
