@@ -3,6 +3,7 @@ title: Sacks forcing and supercompact cardinals
 date: 2018-09-19
 math: true
 diagram: true
+slug: "sacks-supercompact"
 #markup: mmark
 tags:
   - Supercompact cardinals

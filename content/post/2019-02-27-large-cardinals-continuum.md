@@ -3,6 +3,7 @@ title: Violating GCH at large cardinals - why is it interesting and what's new
 date: 2019-02-27
 math: true
 diagram: true
+slug: "large-cardinals-continuum-function"
 #markup: mmark
 tags:
 - Large cardinals

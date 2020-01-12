@@ -3,6 +3,7 @@ title: Strong compactness and functions with the Menas property
 date: 2018-10-13
 math: true
 diagram: true
+slug: "strong-compactness-menas-property"
 #markup: mmark
 tags:
 - Strongly compact cardinals

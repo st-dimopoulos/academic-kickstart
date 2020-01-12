@@ -1,8 +1,10 @@
 ---
 title: "Mαθηματικά για Μηχανικούς ΙΙ"
+subtitle: "Χειμερινό Εξάμηνο 2019"
 summary: University of Cyprus, School of Mathematics, Autumn 2019
 date: "2019-09-02"
 exclude: true
+slug: "mas026-autumn2019-gr"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

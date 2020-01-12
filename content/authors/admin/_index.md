@@ -74,7 +74,7 @@ Welcome to my personal webpage!
 
 I am a Special Scientist (teaching associate) in the University of Cyprus. This semester I am teaching
 
-[Mathematics for Engineers II]({{< relref "ucy-mas026-autumn2019.md" >}}) and [Statistical Analysis I]({{< relref "ucy-mas061-autumn2019.md" >}})
+[Mathematics II]({{< relref "ucy-mas002-spring2020.md" >}}) and [Mathematics for Engineers II]({{< relref "ucy-mas026-spring2020.md" >}})
 
 I am also doing research in set theory, an area of mathematical logic. Most of my research has to do with the interaction between large cardinals and forcing, as a means to explore the limitations of the standard axiomatic system ZFC or to find the consistency strength of various mathematical statements.
 

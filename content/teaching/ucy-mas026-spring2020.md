@@ -1,10 +1,9 @@
 ---
 title: "Mathematics for Engineers II"
-subtitle: "Autumn 2019"
-summary: University of Cyprus, School of Mathematics, Autumn 2019
-date: "2019-09-02"
-slug: "mas026-autumn2019"
-exclude: true
+subtitle: "Spring 2020"
+summary: University of Cyprus, School of Mathematics, Spring 2020
+date: "2020-01-12"
+slug: "mas026-spring2020"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -19,4 +18,4 @@ header:
 
 Mathematics for Engineers II is a course offered to the students of the three Engineering Departments of the University of Cyprus. Its content is that of a multivariable calculus course, namely vectors in n-dimensional spaces, limits and continuity of multivariable functions, differentiability and extrema, multiple integrals, line and surface intergrals, fundamental theorems of vector calculus (Green, Stokes, Gauss).
 
-The content for the course can be found (in greek) [here]({{< relref "ucy-mas026-autumn2019-gr.md" >}}).
+The content for the course can be found (in greek) [here]({{< relref "ucy-mas026-spring2020-gr.md" >}}).
