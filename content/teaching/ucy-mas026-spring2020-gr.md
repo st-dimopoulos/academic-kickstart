@@ -17,6 +17,13 @@ header:
   image: ""
 ---
 
-Σχέδιο μαθήματος
-
 [Σημειώσεις προηγούμενου εξαμήνου]({{< relref "ucy-mas026-autumn2019-gr.md" >}})
+
+
+Σχέδιο μαθήματος: [2ο τμήμα](/teaching/mas026.2_spring_2020_syllabus.pdf) και [3ο τμήμα](/teaching/mas026.3_spring_2020_syllabus.pdf).
+
+[Τυπολόγιο](/teaching/typologio_2020.pdf) (Θα ανανεώνεται συνέχεια).
+
+**Ασκήσεις**
+
+- [Κεφάλαιο 1](/teaching/mas026_exercises_1.pdf)

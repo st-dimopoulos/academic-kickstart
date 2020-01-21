@@ -16,3 +16,9 @@ header:
   caption: ""
   image: ""
 ---
+
+[Σχέδιο μαθήματος](/teaching/mas_002_spring_2020_syllabus.pdf)
+
+**Ασκήσεις**
+
+- [Κεφάλαιο 1](/teaching/mas002_askhseis1.pdf)
