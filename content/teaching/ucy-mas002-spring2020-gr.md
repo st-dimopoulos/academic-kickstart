@@ -17,8 +17,8 @@ header:
   image: ""
 ---
 
-[Σχέδιο μαθήματος](/teaching/mas_002_spring_2020_syllabus.pdf)
+[Σχέδιο μαθήματος](/teaching/mas002/mas_002_spring_2020_syllabus.pdf)
 
 **Ασκήσεις**
 
-- [Κεφάλαιο 1](/teaching/mas002_askhseis1.pdf)
+- [Κεφάλαιο 1](/teaching/mas002/mas002_askhseis1.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis1.pdf)
