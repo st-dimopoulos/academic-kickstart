@@ -22,3 +22,17 @@ header:
 **Ασκήσεις**
 
 - [Κεφάλαιο 1](/teaching/mas002/mas002_askhseis1.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis1.pdf)
+- [Κεφάλαιο 2](/teaching/mas002/mas002_askhseis2.pdf)
+- [Κεφάλαιο 3](/teaching/mas002/mas002_askhseis3.pdf)
+
+**Σημειώσεις (από Φ. Χαννή)**
+
+- [Κεφάλαιο 1](/teaching/mas002/chapter1.pdf)
+- [Κεφάλαιο 2](/teaching/mas002/chapter2.pdf)
+
+
+**Παλιά θέματα**
+
+- [1η Ενδιάμεση 2015](/teaching/mas002/mas002_midterm1_14.pdf)
+- [1η Ενδιάμεση 2017](/teaching/mas002/mas002_midterm1_17.pdf)
+- [1η Ενδιάμεση 2019](/teaching/mas002/mas002_midterm1_19.pdf)

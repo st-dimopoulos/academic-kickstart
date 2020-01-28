@@ -20,17 +20,19 @@ header:
 [Σημειώσεις προηγούμενου εξαμήνου]({{< relref "ucy-mas026-autumn2019-gr.md" >}})
 
 
-Σχέδιο μαθήματος: [2ο τμήμα](/teaching/mas026/mas026.2_spring_2020_syllabus.pdf) και [3ο τμήμα](/teaching/mas026/mas026.3_spring_2020_syllabus.pdf).
+Σχέδιο μαθήματος: [2ο τμήμα](/teaching/mas026/mas026.2_spring_2020_syllabus.pdf) και [3ο τμήμα](/teaching/mas026/mas026.3_spring_2020_syllabus.pdf)
 
-[Τυπολόγιο](/teaching/mas026/typologio_2020.pdf) (θα ανανεώνεται συνέχεια).
+[Τυπολόγιο](/teaching/mas026/typologio_2020.pdf) (θα ανανεώνεται)
 
 **Ασκήσεις**
 
 - [Κεφάλαιο 1](/teaching/mas026/mas026_exercises_1.pdf)
+- [Κεφάλαιο 2](/teaching/mas026/mas026_exercises_2.pdf) (θα ανανεώνεται)
 
 **Σημειώσεις από την τάξη**
 - [Κεφάλαιο 1](/teaching/mas026/mas026_chapter1.pdf)
+- [Κεφάλαιο 2](/teaching/mas026/mas026_chapter2.1.pdf) (θα ανανεώνεται)
 
 **Ύλη από το προτεινόμενο βιβλίο**
 - Κεφάλαιο 10: 10.1, 10.2, 10.4,
-- Κεφάλαιο 11: 11.1, 11.2, 11.3
+- Κεφάλαιο 11: 11.1, 11.2, 11.3, 11.4, 11.5
