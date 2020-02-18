@@ -19,23 +19,28 @@ header:
 
 [Σχέδιο μαθήματος](/teaching/mas002/mas_002_spring_2020_syllabus.pdf)
 
-**Ασκήσεις**
+---
 
+> **1η ενδιάμεση εξέταση**\
+>Πέμπτη 20/2/2020, 11.55-13.25, ΧΩΔ01 108.\
+> Ύλη: Κεφάλαια 1,2,3,4
+
+---
+
+#### Ασκήσεις
 - [Κεφάλαιο 1](/teaching/mas002/mas002_askhseis1.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis1.pdf)
 - [Κεφάλαιο 2](/teaching/mas002/mas002_askhseis2.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis2.pdf)
 - [Κεφάλαιο 3](/teaching/mas002/mas002_askhseis3.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis3.pdf)
 - [Κεφάλαιο 4](/teaching/mas002/mas002_askhseis4.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis4.pdf)
-- [Κεφάλαιο 5](/teaching/mas002/mas002_askhseis5.pdf) 
+- [Κεφάλαιο 5](/teaching/mas002/mas002_askhseis5.pdf)
 
-**Σημειώσεις (από Φ. Χαννή)**
-
+#### Σημειώσεις (από Φ. Χαννή)
 - [Κεφάλαιο 1](/teaching/mas002/chapter1.pdf)
 - [Κεφάλαιο 2](/teaching/mas002/chapter2.pdf)
 - [Κεφάλαιο 3](/teaching/mas002/chapter3.pdf)
 
 
-**Παλιά θέματα**
-
+#### Παλιά θέματα
 - [1η Ενδιάμεση 2015](/teaching/mas002/mas002_midterm1_15.pdf)
 - [1η Ενδιάμεση 2017](/teaching/mas002/mas002_midterm1_17.pdf)
 - [1η Ενδιάμεση 2019](/teaching/mas002/mas002_midterm1_19.pdf)
