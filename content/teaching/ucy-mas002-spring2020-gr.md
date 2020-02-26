@@ -23,7 +23,7 @@ header:
 
 > **1η ενδιάμεση εξέταση**\
 >Πέμπτη 20/2/2020, 11.55-13.25, ΧΩΔ01 108.\
-> Ύλη: Κεφάλαια 1,2,3,4
+> Ύλη: Κεφάλαια 1, 2, 3, 4
 
 ---
 
@@ -32,7 +32,8 @@ header:
 - [Κεφάλαιο 2](/teaching/mas002/mas002_askhseis2.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis2.pdf)
 - [Κεφάλαιο 3](/teaching/mas002/mas002_askhseis3.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis3.pdf)
 - [Κεφάλαιο 4](/teaching/mas002/mas002_askhseis4.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis4.pdf)
-- [Κεφάλαιο 5](/teaching/mas002/mas002_askhseis5.pdf)
+- [Κεφάλαιο 5](/teaching/mas002/mas002_askhseis5.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis5.pdf)
+- [Κεφάλαιο 6](/teaching/mas002/mas002_askhseis6.pdf)
 
 #### Σημειώσεις (από Φ. Χαννή)
 - [Κεφάλαιο 1](/teaching/mas002/chapter1.pdf)
