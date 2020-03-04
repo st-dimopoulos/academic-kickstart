@@ -36,6 +36,7 @@ header:
 - [Κεφάλαιο 1](/teaching/mas026/mas026_exercises_1.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_1.pdf)
 - [Κεφάλαιο 2](/teaching/mas026/mas026_exercises_2.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_2.pdf)
 - [Κεφάλαιο 3](/teaching/mas026/mas026_exercises_3.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_3.pdf)
+- [Κεφάλαιο 4](/teaching/mas026/mas026_exercises_4.pdf)
 
 #### Σημειώσεις από την τάξη
 - [Κεφάλαιο 1](/teaching/mas026/mas026_chapter1.pdf)
