@@ -27,6 +27,8 @@ header:
 
 ---
 
+[Τυπολόγιο](/teaching/mas002/typologio_mas002.pdf) (θα ανανεώνεται)
+
 #### Ασκήσεις
 - [Κεφάλαιο 1](/teaching/mas002/mas002_askhseis1.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis1.pdf)
 - [Κεφάλαιο 2](/teaching/mas002/mas002_askhseis2.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis2.pdf)
@@ -40,6 +42,9 @@ header:
 - [Κεφάλαιο 1](/teaching/mas002/chapter1.pdf)
 - [Κεφάλαιο 2](/teaching/mas002/chapter2.pdf)
 - [Κεφάλαιο 3](/teaching/mas002/chapter3.pdf)
+- [Κεφάλαιο 4](/teaching/mas002/chapter4.pdf)
+- [Κεφάλαιο 5](/teaching/mas002/chapter5.pdf)
+
 
 
 #### Παλιά θέματα
