@@ -27,6 +27,14 @@ header:
 
 ---
 
+> **Εργασία (αντικατάσταση της 2ης ενδιάμεσης)**\
+>Διορία: 13 Απριλίου, 22:00\
+> Ύλη: Κεφάλαια 5, 6, 7, 8
+
+---
+
+
+
 [Τυπολόγιο](/teaching/mas002/typologio_mas002.pdf) (θα ανανεώνεται)
 
 #### Ασκήσεις
@@ -38,6 +46,8 @@ header:
 - [Κεφάλαιο 6](/teaching/mas002/mas002_askhseis6.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis6.pdf)
 - [Κεφάλαιο 7](/teaching/mas002/mas002_askhseis7.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis7.pdf)
 - [Κεφάλαιο 8](/teaching/mas002/mas002_askhseis8.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis8.pdf)
+- [Κεφάλαιο 9](/teaching/mas002/mas002_askhseis9.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis9.pdf)
+
 
 #### Σημειώσεις (από Φ. Χαννή)
 - [Κεφάλαιο 1](/teaching/mas002/chapter1.pdf)
