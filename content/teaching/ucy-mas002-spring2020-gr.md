@@ -49,7 +49,7 @@ header:
 - [Κεφάλαιο 9](/teaching/mas002/mas002_askhseis9.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis9.pdf)
 - [Κεφάλαιο 10](/teaching/mas002/mas002_askhseis10.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis10.pdf)
 - [Κεφάλαιο 11](/teaching/mas002/mas002_askhseis11.pdf)
-- [Κεφάλαιο 12](/teaching/mas002/mas002_askhseis12.pdf) 
+- [Κεφάλαιο 12](/teaching/mas002/mas002_askhseis12.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis12.pdf)
 
 
 #### Σημειώσεις (από Φ. Χαννή)
