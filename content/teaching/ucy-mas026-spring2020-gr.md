@@ -30,7 +30,7 @@ header:
 
 ---
 
-[Τυπολόγιο](/teaching/mas026/typologio_mas026.pdf) (θα ανανεώνεται)
+[Τυπολόγιο](/teaching/mas026/typologio_mas026.pdf)
 
 #### Ασκήσεις
 - [Κεφάλαιο 1](/teaching/mas026/mas026_exercises_1.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_1.pdf)
