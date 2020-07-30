@@ -17,24 +17,24 @@ header:
   image: ""
 ---
 
-[Σχέδιο μαθήματος](/teaching/mas_026_autumn_2019_syllabus.pdf)
+[Σχέδιο μαθήματος](/teaching/mas026_autumn2019/mas_026_autumn_2019_syllabus.pdf)
 
-[Αναλυτικό περιεχόμενο](/teaching/mas_026_autumn_2019_content.pdf)
+[Αναλυτικό περιεχόμενο](/teaching/mas026_autumn2019/mas_026_autumn_2019_content.pdf)
 
 ***Ενδιάμεση εξέταση: Σάββατο 2 Νοεμβρίου, 11.00-13.00, ΧΩΔ01 108.***
 
 - [Ασκήσεις](/teaching/mas026_exercises.pdf)
-- [Ασκήσεις με απαντήσεις](/teaching/mas026_exercises_answers.pdf)
+- [Ασκήσεις με απαντήσεις](/teaching/mas026_autumn2019/mas026_exercises_answers.pdf)
 
 
 **Σημειώσεις μαθήματος (από Α. Αντωνίου)**
 
-- [Κεφάλαιο 1](/teaching/mas026_Chapter1.pdf)
-- [Κεφάλαιο 2 - 1ο μέρος](/teaching/mas026_chapter2a.pdf)
-- [Κεφάλαιο 2 - 2ο μέρος](/teaching/mas026_chapter2-2.pdf)
-- [Κεφάλαιο 3](/teaching/mas026_chapter3.pdf)
+- [Κεφάλαιο 1](/teaching/mas026_autumn2019/mas026_Chapter1.pdf)
+- [Κεφάλαιο 2 - 1ο μέρος](/teaching/mas026_autumn2019/mas026_chapter2a.pdf)
+- [Κεφάλαιο 2 - 2ο μέρος](/teaching/mas026_autumn2019/mas026_chapter2-2.pdf)
+- [Κεφάλαιο 3](/teaching/mas026_autumn2019/mas026_chapter3.pdf)
 
 **Σημειώσεις μαθήματος (από Α. Προκοπίου)**
 
-- [Κεφάλαιο 4](/teaching/mas026_chapter4.pdf)
-- [Κεφάλαιο 5](/teaching/mas026_chapter5.pdf)
+- [Κεφάλαιο 4](/teaching/mas026_autumn2019/mas026_chapter4.pdf)
+- [Κεφάλαιο 5](/teaching/mas026_autumn2019/mas026_chapter5.pdf)
