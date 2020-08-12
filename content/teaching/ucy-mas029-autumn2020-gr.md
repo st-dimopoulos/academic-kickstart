@@ -4,7 +4,7 @@ subtitle: "Χειμερινό Εξάμηνο 2020"
 summary: University of Cyprus, School of Mathematics, Spring 2020
 date: "2020-08-12"
 exclude: true
-slug: "mas001"
+slug: "mas029"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

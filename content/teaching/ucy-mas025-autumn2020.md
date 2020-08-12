@@ -4,7 +4,7 @@ subtitle: "Autumn 2020"
 summary: University of Cyprus, School of Mathematics, Autumn 2020
 date: "2020-08-12"
 exclude: true
-slug: "mas001-autumn2020"
+slug: "mas025-autumn2020"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
