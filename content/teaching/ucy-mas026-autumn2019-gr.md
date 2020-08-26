@@ -23,7 +23,7 @@ header:
 
 ***Ενδιάμεση εξέταση: Σάββατο 2 Νοεμβρίου, 11.00-13.00, ΧΩΔ01 108.***
 
-- [Ασκήσεις](/teaching/mas026_exercises.pdf)
+- [Ασκήσεις](/teaching/mas026_autumn2019/mas026_exercises.pdf)
 - [Ασκήσεις με απαντήσεις](/teaching/mas026_autumn2019/mas026_exercises_answers.pdf)
 
 
