@@ -15,16 +15,6 @@ header:
 ---
 
 
-title: "Academic Tutor"
-collection: teaching
-classes: wide
-type: "Academic Tutorials"
-permalink: /teaching/bristol-year1-tutorials
-venue: "University of Bristol, School of Mathematics"
-date: 2014-01-01
-location: "Bristol, UK"
-
-
 I was an academic tutor at the University of Bristol, at the following 1st year courses of the Maths Single Honours curriculum.
 
 * Analysis 1A and 1B

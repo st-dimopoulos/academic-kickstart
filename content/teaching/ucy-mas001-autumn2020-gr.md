@@ -2,7 +2,7 @@
 title: "Μαθηματικά Ι"
 subtitle: "Χειμερινό Εξάμηνο 2020"
 summary: University of Cyprus, School of Mathematics, Spring 2020
-date: "2020-08-12"
+date: "2020-09-03"
 exclude: true
 slug: "mas001"
 
@@ -24,7 +24,3 @@ header:
 [Τυπολόγιο]()
 
 #### Ασκήσεις
-
-
-
-#### Σημειώσεις
