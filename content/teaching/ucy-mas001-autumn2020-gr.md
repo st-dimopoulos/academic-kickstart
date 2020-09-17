@@ -23,7 +23,8 @@ header:
 
 #### Ασκήσεις
 
-[Κεφάλαιο 1Α](/teaching/mas001/mas001_exercises_1.pdf)
+- [Κεφάλαιο 1Α](/teaching/mas001/mas001_exercises_1.pdf)
+- [Κεφάλαιο 1B](/teaching/mas001/mas001_exercises_2.pdf)
 
 ---
 

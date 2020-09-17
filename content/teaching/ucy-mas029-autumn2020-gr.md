@@ -27,11 +27,11 @@ header:
 
 ---
 
-#### Σημειώσεις <span style="font-size:0.7em;"> (Ευχαριστώ τους φοιτητές Π. Αυγουστινάτου, Χ. Σιαμπέτα και Π. Χρυσάνθου)</span>
+#### Σημειώσεις <span style="font-size:0.7em;"> (Ευχαριστώ τους φοιτητές Π. Αυγουστινάτου, Χ. Σιαμπέτα, Ν. Χριστούδια και Π. Χρυσάνθου)</span>
 
-- [1ο μάθημα](/teaching/mas029/MAS029-LECTURE1-7.9.2020_pc.pdf)
-- [2ο μάθημα](/teaching/mas029/MAS029-LECTURE2-11.9.2020_pc.pdf)
-- 3ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE-3-15.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/Mas029_15-09-2020_cs.pdf) ή [εδώ](/teaching/mas029/mas029.15.09.20.pa.pdf)
+- 1ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE1-7.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE1-7.9.2020_nc.pdf)
+- 2ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE2-11.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE2-11.9.2020_nc.pdf)
+- 3ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE-3-15.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/Mas029_15-09-2020_cs.pdf) ή [εδώ](/teaching/mas029/mas029.15.09.20.pa.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE-3-15.9.2020_nc.pdf)
 
 ---
 
