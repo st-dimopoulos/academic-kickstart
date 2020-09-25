@@ -25,6 +25,7 @@ header:
 
 - [Κεφάλαιο 1Α](/teaching/mas001/mas001_exercises_1.pdf)
 - [Κεφάλαιο 1B](/teaching/mas001/mas001_exercises_2.pdf)
+- [Κεφάλαιο 2](/teaching/mas001/mas001_exercises_3.pdf)
 
 ---
 
