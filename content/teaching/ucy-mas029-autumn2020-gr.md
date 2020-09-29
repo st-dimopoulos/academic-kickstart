@@ -44,7 +44,7 @@ header:
 - 4ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE4-18.9.2020-pc.pdf) ή [εδώ](/teaching/mas029/mas029.18.09.20.pa.pdf)
 - 5ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE5-22.9.2020_pc.pdf)
 - 6ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE-6-25.9.2020_pc.pdf)
-- 7ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_pc.pdf)
+- 7ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/mas029.29.09.20.pa.pdf)
 
 ---
 
