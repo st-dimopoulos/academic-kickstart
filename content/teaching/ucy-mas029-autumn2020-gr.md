@@ -32,7 +32,8 @@ header:
 #### Ασκήσεις
 
 - [Κεφάλαιο 1](/teaching/mas029/mas029_exercises_1.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_1.pdf)
-- [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf)
+- [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2.pdf)
+- [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3.pdf)
 
 ---
 
@@ -41,10 +42,11 @@ header:
 - 1ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE1-7.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE1-7.9.2020_nc.pdf)
 - 2ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE2-11.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE2-11.9.2020_nc.pdf)
 - 3ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE-3-15.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/Mas029_15-09-2020_cs.pdf) ή [εδώ](/teaching/mas029/mas029.15.09.20.pa.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE-3-15.9.2020_nc.pdf)
-- 4ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE4-18.9.2020-pc.pdf) ή [εδώ](/teaching/mas029/mas029.18.09.20.pa.pdf)
-- 5ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE5-22.9.2020_pc.pdf)
-- 6ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE-6-25.9.2020_pc.pdf)
-- 7ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/mas029.29.09.20.pa.pdf)
+- 4ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE4-18.9.2020-pc.pdf) ή [εδώ](/teaching/mas029/mas029.18.09.20.pa.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE4-18.9.2020-nc.pdf)
+- 5ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE5-22.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE5-22.9.2020_nc.pdf)
+- 6ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE-6-25.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE6-25.9.2020_nc.pdf)
+- 7ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/mas029.29.09.20.pa.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_nc.pdf)
+- 8ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE8-2.10.2020_pc.pdf)
 
 ---
 
@@ -58,6 +60,7 @@ header:
 | 22-9-2020 | Μετατροπή πίνακα σε κλιμακωτό και ανηγμένο κλιμακωτό, θεώρημα αντιστρόφου πίνακα, αλγόριθμος εύρεσης αντιστρόφου |
 | 25-9-2020 | Γραμμικά συστήματα (σύνολο λύσεων, ομογενές, τετριμμένη λύση), μέθοδος απαλοιφής Gauss και Gauss-Jordan,  παραδείγματα |
 | 29-9-2020| Περιπτώσεις στην επίλυση γραμμικών συστημάτων με απαλοιφή, συστήματα σε μορφή εξίσωσης πινάκων, επίλυση με αντίστροφο πίνακα, θεώρημα αντιστρόφου πίνακα, θεώρημα πλήθους λύσεων για γραμμικά συστήματα |
+| 2-10-2020| Διανυσματικοί χώροι, ο χώρος $\mathbb{R}^n$, γραμμικός συνδυασμός, παραγόμενος χώρος (Span) |
 
 ---
 

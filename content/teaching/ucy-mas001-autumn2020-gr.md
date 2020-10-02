@@ -23,9 +23,10 @@ header:
 
 #### Ασκήσεις
 
-- [Κεφάλαιο 1Α](/teaching/mas001/mas001_exercises_1.pdf)
-- [Κεφάλαιο 1B](/teaching/mas001/mas001_exercises_2.pdf)
-- [Κεφάλαιο 2](/teaching/mas001/mas001_exercises_3.pdf)
+- [Κεφάλαιο 1Α](/teaching/mas001/mas001_exercises_1a.pdf)
+- [Κεφάλαιο 1B](/teaching/mas001/mas001_exercises_1b.pdf)
+- [Κεφάλαιο 2](/teaching/mas001/mas001_exercises_2.pdf)
+- [Κεφάλαιο 3](/teaching/mas001/mas001_exercises_3.pdf)
 
 ---
 
