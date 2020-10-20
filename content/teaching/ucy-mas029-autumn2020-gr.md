@@ -49,8 +49,9 @@ header:
 - 7ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_pc.pdf) ή [εδώ](/teaching/mas029/mas029.29.09.20.pa.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE7-29.9.2020_nc.pdf)
 - 8ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE8-2.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE8-2.10.2020_nc.pdf)
 - 9ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE9-6.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE9-6.10.2020_nc.pdf)
-- 10 μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE10-9.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE10-9.10.2020_nc.pdf)
+- 10ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE10-9.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE10-9.10.2020_nc.pdf)
 - 12ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_rm.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_el.pdf)
+- 13ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE13-20.10.2020_pc.pdf)
 
 ---
 
@@ -69,6 +70,7 @@ header:
 | 9-10-2020 | Γραμμική ανεξαρτησία, σχέση γραμμικής ανεξαρτησίας και ομογενών συστημάτων, γραμμική ανεξαρτησία στηλών πίνακα, παραδείγματα |
 | 13-10-2020 | Επανάληψη |
 | 17-10-2020 | Υπόχωροι, παραδείγματα υποχώρων, μηδενοχώρος πίνακα, βάση διανυσματικού χώρου |
+| 20-10-2020 | Συντεταγμένες ως προς βάση, διάσταση διανυσματικού χώρου |
 
 ---
 

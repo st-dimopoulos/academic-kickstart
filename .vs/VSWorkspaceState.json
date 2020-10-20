@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\teaching"
+    "\\content\\teaching",
+    "\\static",
+    "\\static\\teaching",
+    "\\static\\teaching\\mas029"
   ],
-  "SelectedNode": "\\content\\teaching\\ucy-mas001-autumn2020-gr.md",
+  "SelectedNode": "\\static\\teaching\\mas029\\MAS029-LECTURE11-16.10.2020_pc.pdf",
   "PreviewInSolutionExplorer": false
 }
