@@ -50,8 +50,8 @@ header:
 - 8ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE8-2.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE8-2.10.2020_nc.pdf)
 - 9ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE9-6.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE9-6.10.2020_nc.pdf)
 - 10ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE10-9.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE10-9.10.2020_nc.pdf)
-- 12ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_rm.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_el.pdf)
-- 13ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE13-20.10.2020_pc.pdf)
+- 12ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_rm.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE11-16.10.2020_el.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE12-16.10.2020_nc.pdf)
+- 13ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE13-20.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE13-20.10.2020_nc.pdf)
 
 ---
 
