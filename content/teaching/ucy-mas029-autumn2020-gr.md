@@ -55,8 +55,10 @@ header:
 - 13ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE13-20.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE13-20.10.2020_nc.pdf)
 - 14ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE14-23.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE14-23.10.2020_el.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE14-23.10.2020_nc.pdf)
 - 15ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE15-27.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE15-27.10.2020_nc.pdf)
-- 16ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE16-30.10.2020_pc.pdf)
-- 17ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_el.pdf)
+- 16ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE16-30.10.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE16-30.10.2020_nc.pdf)
+- 17ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_el.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_nc.pdf)
+- 18ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE18-6.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE18-6.11.2020_nc.pdf)
+- 19ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE19-10.11.2020_pc.pdf)
 
 ---
 
@@ -81,6 +83,7 @@ header:
 | 30-10-2020 | 1-1 και επί γραμμικές απεικονίσεις, χαρακτηρισμός μέσω πίνακα |
 | 3-11-2020  | Ορίζουσα πίνακα με ανάπτυγμα ως προς γραμμή η στήλη, ορίζουσα τριγωνικού και αναστρόφου πίνακα, ορίζουσες και γραμμοπράξεις |
 | 6-11-2020  | Ιδιότητες οριζουσών, μέθοδος Cramer, γεωμετρικές εφαρμογές ορίζουσας |
+| 10-11-2020 | Ιδιοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο και εξίσωση, ιδιοχώρος |
 
 ---
 
