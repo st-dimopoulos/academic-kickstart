@@ -29,6 +29,7 @@ header:
 - [Κεφάλαιο 3](/teaching/mas001/mas001_exercises_3.pdf)
 - [Κεφάλαιο 4](/teaching/mas001/mas001_exercises_4.pdf)
 - [Κεφάλαιο 5](/teaching/mas001/mas001_exercises_5.pdf)
+- [Κεφάλαιο 6](/teaching/mas001/mas001_exercises_6.pdf)
 
 ---
 

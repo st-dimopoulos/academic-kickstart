@@ -35,7 +35,8 @@ header:
 - [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2.pdf)
 - [Κεφάλαιο 3Α](/teaching/mas029/mas029_exercises_3a.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3a.pdf)
 - [Κεφάλαιο 3Β](/teaching/mas029/mas029_exercises_3b.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3b.pdf)
-- [Κεφάλαιο 4](/teaching/mas029/mas029_exercises_4.pdf)
+- [Κεφάλαιο 4](/teaching/mas029/mas029_exercises_4.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_4.pdf)
+- [Κεφάλαιο 5](/teaching/mas029/mas029_exercises_5.pdf) 
 
 ---
 
@@ -59,6 +60,7 @@ header:
 - 17ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_el.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE17-3.11.2020_nc.pdf)
 - 18ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE18-6.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE18-6.11.2020_nc.pdf)
 - 19ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE19-10.11.2020_pc.pdf)
+- 20ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE20-13.11.2020_pc.pdf)
 
 ---
 
@@ -84,6 +86,7 @@ header:
 | 3-11-2020  | Ορίζουσα πίνακα με ανάπτυγμα ως προς γραμμή η στήλη, ορίζουσα τριγωνικού και αναστρόφου πίνακα, ορίζουσες και γραμμοπράξεις |
 | 6-11-2020  | Ιδιότητες οριζουσών, μέθοδος Cramer, γεωμετρικές εφαρμογές ορίζουσας |
 | 10-11-2020 | Ιδιοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο και εξίσωση, ιδιοχώρος |
+| 13-11-2020 | Ιδιοδιανύσματα που αντιστοιχούν σε διακριτές ιδιοτιμές, σχέση ιδιοτιμών με ορίζουσα, αντιστρεψιμότητα και ίχνος |
 
 ---
 
