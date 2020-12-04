@@ -65,7 +65,7 @@ header:
 - 22ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE22-20.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE22-20.11.2020_nc.pdf)
 - 23ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE23-24.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE23-24.11.2020_nc.pdf)
 - 24ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE24-27.11.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE24-27.11.2020_nc.pdf)
-- 25ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE25-1.12.2020_pc.pdf)
+- 25ο μάθημα [εδώ](/teaching/mas029/MAS029-LECTURE25-1.12.2020_pc.pdf) ή [εδώ](/teaching/mas029/MAS029-LECTURE25-1.12.2020_nc.pdf)
 
 ---
 
