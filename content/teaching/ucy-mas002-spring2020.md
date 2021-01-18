@@ -1,7 +1,7 @@
 ---
 title: "Mathematics II"
 subtitle: "Spring 2020"
-summary: University of Cyprus, School of Mathematics, Spring 2020
+summary: University of Cyprus, School of Mathematics
 date: "2020-01-12"
 slug: "mas002-spring2020"
 
@@ -18,4 +18,4 @@ header:
 
 This is a course offered to students of three departments (Accounting and Finance, Business and Public Administration, Biology). Its content includes elements of Calculus (applications of integration, hyperbolic functions, sequences, series, differential equations) and Linear Algebra (linear equations, matrices, determinants, eigenvalues and eigenvectors).
 
-The content for the course can be found (in greek) [here]({{< relref "ucy-mas002-spring2020-gr.md" >}})
+The content for the course can be found (in greek) [here]({{< ref "ucy-mas002-spring2021.md" >}})

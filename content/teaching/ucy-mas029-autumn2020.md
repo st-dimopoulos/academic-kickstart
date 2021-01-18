@@ -1,7 +1,7 @@
 ---
 title: "Elements of Linear Algebra"
 subtitle: "Autumn 2020"
-summary: University of Cyprus, School of Mathematics, Autumn 2020
+summary: University of Cyprus, School of Mathematics
 date: "2020-09-03"
 exclude: false
 slug: "mas029-autumn2020"

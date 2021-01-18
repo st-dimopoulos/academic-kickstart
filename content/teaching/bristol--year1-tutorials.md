@@ -1,6 +1,6 @@
 ---
 title: "Academic Tutorials"
-summary: University of Bristol, School of Mathematics, 2014-2017
+summary: University of Bristol, School of Mathematics
 date: "2014-01-09"
 
 reading_time: false  # Show estimated reading time?

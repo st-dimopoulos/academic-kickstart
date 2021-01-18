@@ -1,7 +1,7 @@
 ---
 title: "Statistical Analysis I"
 subtitle: "Autumn 2019"
-summary: University of Cyprus, School of Mathematics, Autumn 2019
+summary: University of Cyprus, School of Mathematics
 date: "2019-09-02"
 slug: "mas061-autumn2019"
 
