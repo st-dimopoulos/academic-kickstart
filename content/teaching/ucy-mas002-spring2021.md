@@ -1,5 +1,5 @@
 ---
-title: "Μαθηματικά ΙI"
+title: "ΜΑΣ002 - Μαθηματικά ΙI"
 subtitle: "Εαρινό Εξάμηνο 2021"
 summary: University of Cyprus, School of Mathematics, Spring 2021
 date: "2021-01-18"
@@ -17,17 +17,27 @@ header:
   image: ""
 ---
 
-[Σχέδιο μαθήματος] 
+[Διάγραμμα μαθήματος](/teaching/mas002/mas_002_spring_2021_syllabus.pdf)
 
-
-
-[Τυπολόγιο]
+[Τυπολόγιο](/teaching/mas002/typologio_mas002.pdf)
 
 ---
 
 #### Ασκήσεις
+- [Κεφάλαιο 8](/teaching/mas002/mas002_askhseis1.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis1.pdf)
+- [Κεφάλαιο 9](/teaching/mas002/mas002_askhseis12.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis12.pdf)
+- [Κεφάλαιο 10](/teaching/mas002/mas002_askhseis2.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis2.pdf)
+- [Κεφάλαιο 11](/teaching/mas002/mas002_askhseis3.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis3.pdf)
+- [Κεφάλαιο 12](/teaching/mas002/mas002_askhseis4.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis4.pdf)
+- [Κεφάλαιο 13](/teaching/mas002/mas002_askhseis5.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis5.pdf)
+- [Κεφάλαιο 14](/teaching/mas002/mas002_askhseis6.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis6.pdf)
+- [Κεφάλαιο 15](/teaching/mas002/mas002_askhseis11.pdf)
+- [Κεφάλαιο 16](/teaching/mas002/mas002_askhseis7.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis7.pdf)
+- [Κεφάλαιο 17](/teaching/mas002/mas002_askhseis8.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis8.pdf)
+- [Κεφάλαιο 18](/teaching/mas002/mas002_askhseis9.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis9.pdf)
+- [Κεφάλαιο 19](/teaching/mas002/mas002_askhseis10.pdf) - [Απαντήσεις](/teaching/mas002/mas002_apanthseis10.pdf)
 
-- [Κεφάλαιο 1](/teaching/mas002/mas002_askhseis1.pdf)
+
 
 
 ---
