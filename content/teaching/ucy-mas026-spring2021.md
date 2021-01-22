@@ -33,6 +33,7 @@ header:
 #### Σημειώσεις
 
 - Κεφάλαιο 1: [1.1](/teaching/mas026/slides/1.1.parametric_curves.pdf), [1.2](/teaching/mas026/slides/1.2.polar_coordinates.pdf), [1.3](/teaching/mas026/slides/1.3.conic_sections.pdf)
+- [Κεφάλαιο 2](/teaching/mas026/slides/2.Three_Dimensional_Space.pdf)
 
 ---
 
