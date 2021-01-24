@@ -5,8 +5,9 @@
     "\\content\\authors",
     "\\content\\teaching",
     "\\static",
-    "\\static\\teaching"
+    "\\static\\teaching",
+    "\\static\\teaching\\mas026\\slides"
   ],
-  "SelectedNode": "\\content\\teaching\\ucy-mas029-spring2021.md",
+  "SelectedNode": "\\static\\teaching\\mas026",
   "PreviewInSolutionExplorer": false
 }
