@@ -5,10 +5,11 @@
     "\\content\\authors",
     "\\content\\teaching",
     "\\static",
+    "\\static\\img",
     "\\static\\teaching",
     "\\static\\teaching\\mas026",
     "\\static\\teaching\\mas026\\slides"
   ],
-  "SelectedNode": "\\content\\teaching\\ucy-mas029-autumn2020-gr.md",
+  "SelectedNode": "\\static\\img\\by-nc-sa.png",
   "PreviewInSolutionExplorer": false
 }

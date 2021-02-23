@@ -21,11 +21,19 @@ header:
 
 ---
 
+> **Ενδιάμεση εξέταση**\
+> Κυριακή 7/3/2021, 10.00-11.30\
+> Αίθουσα ΧΩΔ01 108\
+> Ύλη: Κεφάλαια 1,2
+
+---
+
 #### Ασκήσεις
 
 - [Κεφάλαιο 1](/teaching/mas029/mas029_exercises_1_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_1_2021.pdf)
 - [Κεφάλαιο 2A](/teaching/mas029/mas029_exercises_2_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2_2021.pdf)
 - [Κεφάλαιο 2B](/teaching/mas029/mas029_exercises_2b_2021.pdf)
+- [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3_2021.pdf)
 
 ---
 
@@ -33,6 +41,7 @@ header:
 
 - Κεφάλαιο 1: [1.1](/teaching/mas029/slides/1.1.linear_systems.pdf), [1.2](/teaching/mas029/slides/1.2.matrices.pdf), [1.3](/teaching/mas029/slides/1.3.special_matrices.pdf), [1.4](/teaching/mas029/slides/1.4.inverse_matrix.pdf), [1.5](/teaching/mas029/slides/1.5.row_equivalence.pdf), [1.6](/teaching/mas029/slides/1.6.inverse_matrix_method.pdf)
 - Κεφάλαιο 2: [2.1](/teaching/mas029/slides/3.1.R^n-span.pdf), [2.2](/teaching/mas029/slides/3.2.matrix_spaces.pdf), [2.3](/teaching/mas029/slides/3.3.linear_independence.pdf), [2.4](/teaching/mas029/slides/3.5.subspaces.pdf), [2.5](/teaching/mas029/slides/3.6.basis.pdf), [2.6](/teaching/mas029/slides/3.7.rank.pdf), [2.7](/teaching/mas029/slides/3.4.linear_transformations.pdf)
+- Κεφάλαιο 3: [3.1](/teaching/mas029/slides/4.1.determinants.pdf), [3.2](/teaching/mas029/slides/4.2.elimination_method.pdf), [3.3](/teaching/mas029/slides/4.3.cramer's_rule.pdf)
 
 #### Ημερολόγιο μαθήματος
 | Ημέρα <div style="width:100px"></div> | Ύλη |
@@ -47,5 +56,10 @@ header:
 | 11-2-2021 | Γραμμική ανεξαρτησία, σχέση γραμμικής ανεξαρτησίας και ομογενών συστημάτων, γραμμική ανεξαρτησία στηλών πίνακα, παραδείγματα | 
 | 15-2-2021 | Υπόχωροι, παραδείγματα υποχώρων, βάση διανυσματικού χώρου |
 | 18-2-2021 | Διάσταση διανυσματικού χώρου, τάξη και μηδενικότητα πίνακα |
+| 22-2-2021 | Απεικονίσεις, γραμμικές απεικονίσεις, κανονικός πίνακας γραμμικής απεικόνισης |
 
 ---
+
+{{< figure src="/img/by-nc-sa2.png" title="" height="10px" caption="Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή [4.0 Διεθνές](https://creativecommons.org/licenses/by-nc-sa/4.0/)" >}}
+
+
