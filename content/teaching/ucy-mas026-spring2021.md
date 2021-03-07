@@ -35,7 +35,7 @@ header:
 - [Κεφάλαιο 1](/teaching/mas026/mas026_exercises_1.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_1.pdf)
 - [Κεφάλαιο 2](/teaching/mas026/mas026_exercises_2.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_2.pdf)
 - [Κεφάλαιο 3](/teaching/mas026/mas026_exercises_3.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_3.pdf)
-- [Κεφάλαιο 4](/teaching/mas026/mas026_exercises_4.pdf)
+- [Κεφάλαιο 4](/teaching/mas026/mas026_exercises_4.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_4.pdf)
 
 
 
@@ -47,6 +47,7 @@ header:
 - [Κεφάλαιο 2](/teaching/mas026/slides/2.Three_Dimensional_Space.pdf)
 - Κεφάλαιο 3: [3.1](/teaching/mas026/slides/3.1.vector_functions.pdf), [3.2](/teaching/mas026/slides/3.2.calculus_vector_functions.pdf)
 - Κεφάλαιο 4: [4.1](/teaching/mas026/slides/4.1.multivariable_functions.pdf), [4.2](/teaching/mas026/slides/4.2.limits_continuity.pdf), [4.3](/teaching/mas026/slides/4.3.partial_derivatives.pdf), [4.4](/teaching/mas026/slides/4.4.differentiability.pdf), [4.5](/teaching/mas026/slides/4.5.chain_rule.pdf), [4.6](/teaching/mas026/slides/4.6.directional_derivative.pdf), [4.7](/teaching/mas026/slides/4.7.tangent_plane.pdf), [4.8](/teaching/mas026/slides/4.8.extrema.pdf), [4.9](/teaching/mas026/slides/4.9.lagrange_multipliers.pdf)
+- [Κεφάλαιο 5](/teaching/mas026/slides/5.Multiple_Integrals.pdf)
 
 ---
 
@@ -65,6 +66,8 @@ header:
 | 18-2-2021   | Ασκήσεις, όρια και συνεχεία συναρτήσεων πολλών μεταβλητών |
 | 22-2-2021   | Μερικές παράγωγοι, παραγωγισιμότητα, κανόνας αλυσίδας |
 | 25-2-2021   | Ασκήσεις, παράγωγος πεπλεγμένης συνάρτησης, παράγωγος κατά κατεύθυνση |
+| 1-3-2021    | Επανάληψη |
+| 4-3-2021    | Κλίση συνάρτησης και εφαρμογές, εφαπτόμενο επίπεδο, ακρότατα |
 
 ---
 
