@@ -33,7 +33,7 @@ header:
 - [Κεφάλαιο 1](/teaching/mas029/mas029_exercises_1_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_1_2021.pdf)
 - [Κεφάλαιο 2A](/teaching/mas029/mas029_exercises_2_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2_2021.pdf)
 - [Κεφάλαιο 2B](/teaching/mas029/mas029_exercises_2b_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2b_2021.pdf)
-- [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3_2021.pdf)
+- [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3_2021.pdf)
 - [Κεφάλαιο 4](/teaching/mas029/mas029_exercises_4_2021.pdf)
 
 ---
@@ -62,6 +62,7 @@ header:
 | 25-2-2021 | 1-1 και επί γραμμικές απεικονίσεις, ορίζουσα τετραγωνικού πίνακα με ανάπτυγμα, ορίζουσα και γραμμοπράξεις |
 | 1-3-2021  | Επανάληψη |
 | 4-3-2021  | Όρίζουσα με απαλοιφή, μέθοδος Cramer, γεωμετρικές εφαρμογές ορίζουσας |
+| 8-3-2021  | Ιδιοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο κι εξίσωση, ιδιοχώρος |
 
 ---
 
