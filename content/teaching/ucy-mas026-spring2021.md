@@ -36,6 +36,7 @@ header:
 - [Κεφάλαιο 2](/teaching/mas026/mas026_exercises_2.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_2.pdf)
 - [Κεφάλαιο 3](/teaching/mas026/mas026_exercises_3.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_3.pdf)
 - [Κεφάλαιο 4](/teaching/mas026/mas026_exercises_4.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_4.pdf)
+- [Κεφάλαιο 5](/teaching/mas026/mas026_exercises_5.pdf)
 
 
 
@@ -70,6 +71,7 @@ header:
 | 4-3-2021    | Κλίση συνάρτησης και εφαρμογές, εφαπτόμενο επίπεδο, ακρότατα |
 | 8-3-2021    | Ολικά ακρότατα, Πολλαπλασιαστές Lagrange |
 | 11-3-2021   | Ασκήσεις, εισαγωγή στο διπλό ολοκλήρωμα |
+| 18-3-2021   | Ασκήσεις, διαδοχικά ολοκληρώματα |
 
 ---
 
