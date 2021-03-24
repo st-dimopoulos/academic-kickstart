@@ -44,6 +44,7 @@ header:
 - Κεφάλαιο 2: [2.1](/teaching/mas029/slides/3.1.R^n-span.pdf), [2.2](/teaching/mas029/slides/3.2.matrix_spaces.pdf), [2.3](/teaching/mas029/slides/3.3.linear_independence.pdf), [2.4](/teaching/mas029/slides/3.5.subspaces.pdf), [2.5](/teaching/mas029/slides/3.6.basis.pdf), [2.6](/teaching/mas029/slides/3.7.rank.pdf), [2.7](/teaching/mas029/slides/3.4.linear_transformations.pdf)
 - Κεφάλαιο 3: [3.1](/teaching/mas029/slides/4.1.determinants.pdf), [3.2](/teaching/mas029/slides/4.2.elimination_method.pdf), [3.3](/teaching/mas029/slides/4.3.cramer's_rule.pdf)
 - Κεφάλαιο 4: [4.1](/teaching/mas029/slides/5.1.eigenvalues.pdf), [4.2](/teaching/mas029/slides/5.2.diagonalization.pdf), [4.3](/teaching/mas029/slides/5.3.complex_eigenvalues.pdf)
+- Κεφάλαιο 5: [5.1](/teaching/mas029/slides/6.1.inner_product.pdf), [5.2](/teaching/mas029/slides/6.2.orthogonal_sets.pdf), [5.3](/teaching/mas029/slides/6.3.Gram-Schmidt.pdf)
 
 #### Ημερολόγιο μαθήματος
 | Ημέρα <div style="width:100px"></div> | Ύλη |
@@ -65,6 +66,7 @@ header:
 | 8-3-2021  | Ιδιοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο κι εξίσωση, ιδιοχώρος |
 | 11-3-2021 | Ιδιοδιανύσματα που αντιστοιχούν σε διακριτές ιδιοτιμές, σχέση ιδιοτιμών με ορίζουσα, αντιστρεψιμότητα και ίχνος |
 | 18-3-2021 | Διαγωνοποίηση, θεώρημα διαγωνοποιήσιμου πίνακα, δυνάμεις διαγωνοποιήσιμου πίνακα |
+| 22-3-2021 | Αλγεβρική και γεωμετρική πολλαπλότητα ιδιοτιμών, στοιχεία μιγαδικής ανάλυσης, ο χώρος $\mathbb{C}^n$, μιγαδικές ιδιοτιμές |
 
 ---
 
