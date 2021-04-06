@@ -37,6 +37,7 @@ header:
 - [Κεφάλαιο 3](/teaching/mas026/mas026_exercises_3.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_3.pdf)
 - [Κεφάλαιο 4](/teaching/mas026/mas026_exercises_4.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_4.pdf)
 - [Κεφάλαιο 5](/teaching/mas026/mas026_exercises_5.pdf)
+- [Κεφάλαιο 6](/teaching/mas026/mas026_exercises_6.pdf)
 
 
 
@@ -49,6 +50,7 @@ header:
 - Κεφάλαιο 3: [3.1](/teaching/mas026/slides/3.1.vector_functions.pdf), [3.2](/teaching/mas026/slides/3.2.calculus_vector_functions.pdf)
 - Κεφάλαιο 4: [4.1](/teaching/mas026/slides/4.1.multivariable_functions.pdf), [4.2](/teaching/mas026/slides/4.2.limits_continuity.pdf), [4.3](/teaching/mas026/slides/4.3.partial_derivatives.pdf), [4.4](/teaching/mas026/slides/4.4.differentiability.pdf), [4.5](/teaching/mas026/slides/4.5.chain_rule.pdf), [4.6](/teaching/mas026/slides/4.6.directional_derivative.pdf), [4.7](/teaching/mas026/slides/4.7.tangent_plane.pdf), [4.8](/teaching/mas026/slides/4.8.extrema.pdf), [4.9](/teaching/mas026/slides/4.9.lagrange_multipliers.pdf)
 - [Κεφάλαιο 5](/teaching/mas026/slides/5.Multiple_Integrals.pdf)
+- [Κεφάλαιο 6](/teaching/mas026/slides/6.Topics_in_Vector_Calculus.pdf)
 
 ---
 
@@ -73,7 +75,8 @@ header:
 | 11-3-2021   | Ασκήσεις, εισαγωγή στο διπλό ολοκλήρωμα |
 | 18-3-2021   | Ασκήσεις, διαδοχικά ολοκληρώματα |
 | 24-3-2021   | Διπλά ολοκληρώματα πάνω από γενικότερα χωρία, εμβαδόν χωρίου, εμβαδόν επιφάνειας, τριπλό ολοκλήρωμα |
-| 29-3-2021   | Ασκήσεις, τριπλό ολοκλήρωμα πάνω από γενικότερα χωρία, Ιακωβιανή |
+| 29-3-2021   | Ασκήσεις, τριπλό ολοκλήρωμα πάνω από γενικότερα χωρία, Ιακωβιανή ορίζουσα |
+| 5-4-2021    | Αλλαγή μεταβλητών σε διπλό και τριπλό ολοκλήρωμα, ολοκληρώματα με πολικές, κυλινδρικές και σφαιρικές συντεταγμένες |
 
 ---
 
