@@ -31,12 +31,12 @@ header:
 
 #### Ασκήσεις
 
-- [Κεφάλαιο 1](/teaching/mas029/mas029_exercises_1.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_1.pdf)
-- [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2.pdf)
-- [Κεφάλαιο 3Α](/teaching/mas029/mas029_exercises_3a.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3a.pdf)
-- [Κεφάλαιο 3Β](/teaching/mas029/mas029_exercises_3b.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3b.pdf)
-- [Κεφάλαιο 4](/teaching/mas029/mas029_exercises_4.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_4.pdf)
-- [Κεφάλαιο 5](/teaching/mas029/mas029_exercises_5.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_5.pdf)
+- [Κεφάλαιο 1](/teaching/mas029/old/mas029_exercises_1.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_1.pdf)
+- [Κεφάλαιο 2](/teaching/mas029/old/mas029_exercises_2.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_2.pdf)
+- [Κεφάλαιο 3Α](/teaching/mas029/old/mas029_exercises_3a.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_3a.pdf)
+- [Κεφάλαιο 3Β](/teaching/mas029/old/mas029_exercises_3b.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_3b.pdf)
+- [Κεφάλαιο 4](/teaching/mas029/old/mas029_exercises_4.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_4.pdf)
+- [Κεφάλαιο 5](/teaching/mas029/old/mas029_exercises_5.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_5.pdf)
 
 ---
 

@@ -4,7 +4,7 @@ subtitle: "Εαρινό Εξάμηνο 2021"
 summary: University of Cyprus, School of Mathematics, Spring 2020
 date: "2021-01-18"
 exclude: true
-slug: "mas026"
+slug: "mas026-spring2021"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

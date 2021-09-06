@@ -4,7 +4,7 @@ subtitle: "Εαρινό Εξάμηνο 2021"
 summary: University of Cyprus, School of Mathematics, Spring 2020
 date: "2020-01-18"
 exclude: true
-slug: "mas029"
+slug: "mas029-spring2021"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -38,22 +38,22 @@ header:
 
 #### Ασκήσεις
 
-- [Κεφάλαιο 1](/teaching/mas029/mas029_exercises_1_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_1_2021.pdf)
-- [Κεφάλαιο 2A](/teaching/mas029/mas029_exercises_2_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2_2021.pdf)
-- [Κεφάλαιο 2B](/teaching/mas029/mas029_exercises_2b_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2b_2021.pdf)
-- [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3_2021.pdf)
-- [Κεφάλαιο 4](/teaching/mas029/mas029_exercises_4_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_4_2021.pdf)
-- [Κεφάλαιο 5](/teaching/mas029/mas029_exercises_5_2021.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_5_2021.pdf)
+- [Κεφάλαιο 1](/teaching/mas029/old/mas029_exercises_1_2021.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_1_2021.pdf)
+- [Κεφάλαιο 2A](/teaching/mas029/old/mas029_exercises_2_2021.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_2_2021.pdf)
+- [Κεφάλαιο 2B](/teaching/mas029/old/mas029_exercises_2b_2021.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_2b_2021.pdf)
+- [Κεφάλαιο 3](/teaching/mas029/old/mas029_exercises_3_2021.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_3_2021.pdf)
+- [Κεφάλαιο 4](/teaching/mas029/old/mas029_exercises_4_2021.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_4_2021.pdf)
+- [Κεφάλαιο 5](/teaching/mas029/old/mas029_exercises_5_2021.pdf) - [Απαντήσεις](/teaching/mas029/old/mas029_answers_5_2021.pdf)
 
 ---
 
 #### Σημειώσεις
 
-- Κεφάλαιο 1: [1.1](/teaching/mas029/slides/1.1.linear_systems.pdf), [1.2](/teaching/mas029/slides/1.2.matrices.pdf), [1.3](/teaching/mas029/slides/1.3.special_matrices.pdf), [1.4](/teaching/mas029/slides/1.4.inverse_matrix.pdf), [1.5](/teaching/mas029/slides/1.5.row_equivalence.pdf), [1.6](/teaching/mas029/slides/1.6.inverse_matrix_method.pdf)
-- Κεφάλαιο 2: [2.1](/teaching/mas029/slides/3.1.R^n-span.pdf), [2.2](/teaching/mas029/slides/3.2.matrix_spaces.pdf), [2.3](/teaching/mas029/slides/3.3.linear_independence.pdf), [2.4](/teaching/mas029/slides/3.5.subspaces.pdf), [2.5](/teaching/mas029/slides/3.6.basis.pdf), [2.6](/teaching/mas029/slides/3.7.rank.pdf), [2.7](/teaching/mas029/slides/3.4.linear_transformations.pdf)
-- Κεφάλαιο 3: [3.1](/teaching/mas029/slides/4.1.determinants.pdf), [3.2](/teaching/mas029/slides/4.2.elimination_method.pdf), [3.3](/teaching/mas029/slides/4.3.cramer's_rule.pdf)
-- Κεφάλαιο 4: [4.1](/teaching/mas029/slides/5.1.eigenvalues.pdf), [4.2](/teaching/mas029/slides/5.2.diagonalization.pdf), [4.3](/teaching/mas029/slides/5.3.complex_eigenvalues.pdf)
-- Κεφάλαιο 5: [5.1](/teaching/mas029/slides/6.1.inner_product.pdf), [5.2](/teaching/mas029/slides/6.2.orthogonal_sets.pdf), [5.3](/teaching/mas029/slides/6.3.Gram-Schmidt.pdf)
+- Κεφάλαιο 1: [1.1](/teaching/mas029/old/slides/1.1.linear_systems.pdf), [1.2](/teaching/mas029/old/slides/1.2.matrices.pdf), [1.3](/teaching/mas029/old/slides/1.3.special_matrices.pdf), [1.4](/teaching/mas029/old/slides/1.4.inverse_matrix.pdf), [1.5](/teaching/mas029/old/slides/1.5.row_equivalence.pdf), [1.6](/teaching/mas029/old/slides/1.6.inverse_matrix_method.pdf)
+- Κεφάλαιο 2: [2.1](/teaching/mas029/old/slides/3.1.R^n-span.pdf), [2.2](/teaching/mas029/old/slides/3.2.matrix_spaces.pdf), [2.3](/teaching/mas029/old/slides/3.3.linear_independence.pdf), [2.4](/teaching/mas029/old/slides/3.5.subspaces.pdf), [2.5](/teaching/mas029/old/slides/3.6.basis.pdf), [2.6](/teaching/mas029/old/slides/3.7.rank.pdf), [2.7](/teaching/mas029/old/slides/3.4.linear_transformations.pdf)
+- Κεφάλαιο 3: [3.1](/teaching/mas029/old/slides/4.1.determinants.pdf), [3.2](/teaching/mas029/old/slides/4.2.elimination_method.pdf), [3.3](/teaching/mas029/old/slides/4.3.cramer's_rule.pdf)
+- Κεφάλαιο 4: [4.1](/teaching/mas029/old/slides/5.1.eigenvalues.pdf), [4.2](/teaching/mas029/old/slides/5.2.diagonalization.pdf), [4.3](/teaching/mas029/old/slides/5.3.complex_eigenvalues.pdf)
+- Κεφάλαιο 5: [5.1](/teaching/mas029/old/slides/6.1.inner_product.pdf), [5.2](/teaching/mas029/old/slides/6.2.orthogonal_sets.pdf), [5.3](/teaching/mas029/old/slides/6.3.Gram-Schmidt.pdf)
 
 #### Ημερολόγιο μαθήματος
 | Ημέρα <div style="width:100px"></div> | Ύλη |
