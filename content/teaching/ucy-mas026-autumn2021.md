@@ -39,6 +39,7 @@ header:
 #### Σημειώσεις
 
 - Κεφάλαιο 1: [1.1](/teaching/mas026/slides/1.1.parametric_curves.pdf), [1.2](/teaching/mas026/slides/1.2.polar_coordinates.pdf), [1.3](/teaching/mas026/slides/1.3.conic_sections.pdf)
+- [Ευκλείδεια γεωμετρία του χώρου](/teaching/mas026/space_geometry.pdf) (Ευχαριστώ την φοιτήτρια Α. Χρίστου)
 - [Κεφάλαιο 2](/teaching/mas026/slides/2.Three_Dimensional_Space.pdf)
 - Κεφάλαιο 3: [3.1](/teaching/mas026/slides/3.1.vector_functions.pdf), [3.2](/teaching/mas026/slides/3.2.calculus_vector_functions.pdf)
 - Κεφάλαιο 4: [4.1](/teaching/mas026/slides/4.1.multivariable_functions.pdf), [4.2](/teaching/mas026/slides/4.2.limits_continuity.pdf), [4.3](/teaching/mas026/slides/4.3.partial_derivatives.pdf), [4.4](/teaching/mas026/slides/4.4.differentiability.pdf), [4.5](/teaching/mas026/slides/4.5.chain_rule.pdf), [4.6](/teaching/mas026/slides/4.6.directional_derivative.pdf), [4.7](/teaching/mas026/slides/4.7.tangent_plane.pdf), [4.8](/teaching/mas026/slides/4.8.extrema.pdf), [4.9](/teaching/mas026/slides/4.9.lagrange_multipliers.pdf)
