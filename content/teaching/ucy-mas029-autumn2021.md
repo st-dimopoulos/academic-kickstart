@@ -32,7 +32,7 @@ header:
 #### Ασκήσεις
 
 - [Κεφάλαιο 1](/teaching/mas029/mas029_exercises_1.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_1.pdf)
-- [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf) - [Απαντήσεις]()
+- [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2.pdf)
 - [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3.pdf) - [Απαντήσεις]()
 
 ---
