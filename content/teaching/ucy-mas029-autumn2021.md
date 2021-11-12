@@ -35,7 +35,8 @@ header:
 - [Κεφάλαιο 2](/teaching/mas029/mas029_exercises_2.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_2.pdf)
 - [Κεφάλαιο 3](/teaching/mas029/mas029_exercises_3.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_3.pdf)
 - [Κεφάλαιο 4A](/teaching/mas029/mas029_exercises_4a.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_4a.pdf)
-- [Κεφάλαιο 4B](/teaching/mas029/mas029_exercises_4b.pdf) - [Απαντήσεις]
+- [Κεφάλαιο 4B](/teaching/mas029/mas029_exercises_4b.pdf) - [Απαντήσεις](/teaching/mas029/mas029_answers_4b.pdf)
+- [Κεφάλαιο 5](/teaching/mas029/mas029_exercises_5.pdf) - [Απαντήσεις]
 
 ---
 
@@ -45,6 +46,7 @@ header:
 - Κεφάλαιο 2: [2.1](/teaching/mas029/slides/2.1.linear_systems.pdf), [2.2](/teaching/mas029/slides/2.2.inverse_matrix_method.pdf)
 - Κεφάλαιο 3: [3.1](/teaching/mas029/slides/3.1.determinants.pdf), [3.2](/teaching/mas029/slides/3.2.elimination_method.pdf), [3.3](/teaching/mas029/slides/3.3.cramer's_rule.pdf)
 - Κεφάλαιο 4: [4.1](/teaching/mas029/slides/4.1.R^n-span.pdf), [4.2](/teaching/mas029/slides/4.2.matrix_spaces.pdf), [4.3](/teaching/mas029/slides/4.3.linear_independence.pdf), [4.4](/teaching/mas029/slides/4.4.subspaces.pdf), [4.5](/teaching/mas029/slides/4.5.basis.pdf), [4.6](/teaching/mas029/slides/4.6.rank.pdf), [4.7](/teaching/mas029/slides/4.7.linear_transformations.pdf)
+- Κεφάλαιο 5: [5.1](/teaching/mas029/slides/5.1.eigenvalues.pdf), [5.2](/teaching/mas029/slides/5.2.diagonalization.pdf), [5.3](/teaching/mas029/slides/5.3.complex_eigenvalues.pdf)
 
 ---
 
@@ -71,6 +73,9 @@ header:
 | 26-10-2021 | Υπόχωροι, παραδείγματα υποχώρων, βάση διανυσματικού χώρου | 
 | 29-10-2021 | Συντεταγμένες ως προς βάση, διάσταση διανυσματικού χώρου, τάξη και μηδενικότητα πίνακα | 
 | 2-11-2021 | Θεώρημα τάξης πίνακα, συνέχεια στο θεώρημα αντιστρόφου πίνακα, απεικονίσεις |
+| 5-11-2021 | Γραμμικές απεικονίσεις, κανονικός πίνακας γραμμικής απεικόνισης, 1-1 και επί απεικονίσεις |
+| 9-11-2021 | διοτιμές κι ιδιοδιανύσματα, χαρακτηριστικό πολυώνυμο και εξίσωση, ιδιοχώρος |
+| 12-11-2021 | Ιδιοδιανύσματα που αντιστοιχούν σε διακριτές ιδιοτιμές, σχέση ιδιοτιμών με ορίζουσα, αντιστρεψιμότητα και ίχνος | 
 
 
 ---
