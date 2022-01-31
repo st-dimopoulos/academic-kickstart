@@ -26,7 +26,7 @@ header:
 #### Ασκήσεις
 
 - [Κεφάλαιο 1](/teaching/mas026/mas026_exercises_1.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_1.pdf)
-
+- [Κεφάλαιο 2](/teaching/mas026/mas026_exercises_2.pdf) - [Απαντήσεις](/teaching/mas026/mas026_answers_2.pdf)
 
 ---
 
