@@ -3,13 +3,14 @@
     "",
     "\\content",
     "\\content\\authors",
-    "\\content\\teaching",
+    "\\content\\authors\\admin",
+    "\\content\\home",
     "\\static",
     "\\static\\img",
     "\\static\\teaching",
     "\\static\\teaching\\mas029",
     "\\static\\teaching\\mas029\\slides"
   ],
-  "SelectedNode": "\\content\\teaching\\ucy-mas029-autumn2020.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
